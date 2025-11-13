@@ -1,18 +1,44 @@
 {
   "users": [
-    { "id": "1", "name": "John Doe", "image": "pic1.jpg" },
-    { "id": "2", "name": "Jane Doe", "image": "pic2.jpg" },
-    { "id": "3", "name": "Julio Doe" }
-  ],
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": "1",
+     "name": "Nicholas Mandey",
+     "email": "madneynicholas@gmail.com",
+     "phone": "+62 831 8751 5744",
+     "role": "IT Student",
+     "address": "Minahasa Utara, Indoenesia",
+      "image": "photoprofile.jpeg",
+      "education": [
+        {
+          "id": 1,
+          "school": "Universitas Klabat",
+          "degree": "S1 Informatika",
+          "period": "2023 - Sekarang",
+          "description": "Fokus pada pengembangan web, basis data, dan sistem informasi."
+        },
+        {
+          "id": 2,
+          "school": "SMA Unklab Advent Airmadidi",
+          "degree": "Ilmu Pengetahuan Alam (IPA)",
+          "period": "2020 - 2023",
+          "description": "Sering Tidur di kelas :v."
+        },
+        {
+          "id": 3,
+          "school": "SMP Unklab Advent Airmadidi",
+          "degree": "None",
+          "period": "2017 - 2020",
+          "description": "Sering Tidur di kelas :v."
+        },
+        {
+          "id": 4,
+          "school": "SD Unklab Advent Airmadidi",
+          "degree": "None",
+          "period": "2011 - 2017",
+          "description": "Sering Tidur di kelas :v."
+        }
+      ]
+    }
+      
+      
+  ]
 }
