@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import ProfileCard from "./Komponen/BioCard";
+import ProfileCard from "./Komponen/Bio";
 import Loading from "./Komponen/Loading";
 import Header from "./Komponen/Header";
-import Aboutme from "./Komponen/Aboutme";
+import Aboutme from "./Komponen/About";
 import Education from "./Komponen/Education";
 import Contact from "./Komponen/Contact";
 
