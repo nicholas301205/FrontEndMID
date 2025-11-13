@@ -46,7 +46,7 @@ const Contact = ({email, phone}) => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="text-foreground font-medium">Tidur, Indonesia</p>
+                  <p className="text-foreground font-medium">Sulawesi Utara, Indonesia</p>
                 </div>
               </div>
             </div>
